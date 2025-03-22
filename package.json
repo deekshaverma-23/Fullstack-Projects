@@ -1,5 +1,5 @@
 {
-  "name": "4.0-ejs",
+  "name": "5.6-secrets-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
+    "axios": "^1.4.0",
     "ejs": "^3.1.9",
     "express": "^4.18.2"
   }
